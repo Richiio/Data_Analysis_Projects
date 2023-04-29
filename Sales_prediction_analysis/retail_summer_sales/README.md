@@ -22,7 +22,7 @@ It is observed that out of the 10 features, products marked rating 3 and 5 have 
 
 **Relative Weights :**
 
-<img src="https://github.com/abhijitpai000/retail_summer_sales/blob/master/report/fw.png" />
+<img src="https://github.com/Richiio/retail_summer_sales/blob/master/report/fw.png" />
 
 
 
@@ -32,7 +32,7 @@ I used [Summer Sales](https://www.kaggle.com/jmmvutu/summer-products-and-sales-i
 
 ## Final Report & Package Walk-Through
 
-To reproduce this study, use modules in 'src' directory of this repo. (setup instructions below) and walk-through of the package is presented in the [final report](https://github.com/abhijitpai000/retail_summer_sales/tree/master/report)
+To reproduce this study, use modules in 'src' directory of this repo. (setup instructions below) and walk-through of the package is presented in the [final report](https://github.com/Richiio/retail_summer_sales/tree/master/report)
 
 ## Setup instructions
 
@@ -42,7 +42,7 @@ This repository has been tested on Python 3.7.6.
 
 1. Cloning the repository:
 
-`git clone https://github.com/abhijitpai000/retail_summer_sales.git`
+`git clone https://github.com/Richiio/retail_summer_sales.git`
 
 2. Navigate to the git clone repository.
 
