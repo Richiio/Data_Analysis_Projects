@@ -22,7 +22,7 @@ It is observed that out of the 10 features, products marked rating 3 and 5 have 
 
 **Relative Weights :**
 
-<img src="https://github.com/Richiio/retail_summer_sales/blob/master/report/fw.png" />
+<img src="https://github.com/Richiio/Data_Analysis_Projects/blob/main/Sales_prediction_analysis/retail_summer_sales/report/fw.png" />
 
 
 
