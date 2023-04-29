@@ -32,7 +32,7 @@ I used [Summer Sales](https://www.kaggle.com/jmmvutu/summer-products-and-sales-i
 
 ## Final Report & Package Walk-Through
 
-To reproduce this study, use modules in 'src' directory of this repo. (setup instructions below) and walk-through of the package is presented in the [final report](https://github.com/Richiio/retail_summer_sales/tree/master/report)
+To reproduce this study, use modules in 'src' directory of this repo. (setup instructions below) and walk-through of the package is presented in the [final report]([https://github.com/Richiio/Data_Analysis_Projects/tree/main/Sales_prediction_analysis/retail_summer_sales/report])
 
 ## Setup instructions
 
